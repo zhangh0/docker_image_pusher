@@ -8,3 +8,4 @@ golang:1.22
 nginx:1.26.0
 golang:1.23.0
 golang:1.23
+centos:latest
