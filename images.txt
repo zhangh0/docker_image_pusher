@@ -9,3 +9,4 @@ nginx:1.26.0
 golang:1.23.0
 golang:1.23
 centos:latest
+redis:latest
