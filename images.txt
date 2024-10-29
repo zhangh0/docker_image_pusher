@@ -11,3 +11,4 @@ golang:1.23
 centos:latest
 redis:latest
 redis:7.2-alpine
+openjdk:8-jre-alpine
