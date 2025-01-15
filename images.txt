@@ -13,3 +13,4 @@ redis:latest
 redis:7.2-alpine
 openjdk:8-jre-alpine
 eclipse-temurin:21-jre-alpine
+hugegraph/hugegraph:1.5.0
